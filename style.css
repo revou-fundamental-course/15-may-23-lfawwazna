@@ -1,0 +1,115 @@
+body {
+    background: linear-gradient(90deg, red, blue);
+}
+
+header {
+    background: navy;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+span.luas-persegi {
+    color: white;
+    font-size: x-large;
+}
+
+p#output_luas {
+    background: navy;
+    color: white;
+    font-size: x-large;
+}
+
+p#output_keliling {
+    background: navy;
+    font-size: x-large;
+    color: white;
+}
+
+span.keliling-persegi {
+    color: white;
+    font-size: x-large;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.title {
+    font-weight: bold;
+    color: white;
+    font-size: x-large;
+}
+
+.subtitle {
+    color: lightgray;
+    font-size: medium;
+    padding-left: 5px;
+}
+
+.p1 {
+    text-align: center;
+    color: lightgray;
+}
+
+.p2 {
+    text-align: center;
+    color: lightgray;
+}
+
+.card {
+    background:white;
+}
+
+.formula-description {
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+}
+
+.example-square {
+    border: 5px solid red;
+    height: 150px;
+    width: 150px;
+    margin-left: 15px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#container {
+    text-align: center;
+    margin: 50px auto;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  label, input {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    font-size: x-large;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: navy;
+    color: white;
+  }
+  
+  p {
+    font-weight: bold;
+  }
